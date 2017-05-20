@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Cinema> 
+	<Poster>
+		<movie>
+			<name> Босс-малокосос  </name>
+			<time> 10.00 </time>
+			<genre> Мультфильм  </genre>
+		</movie>
+		<movie>
+			<name> Великая стена  </name>
+			<time> 12.00 </time>
+			<genre> Фэнтези, Боевик  </genre>
+		</movie>
+		<movie>
+			<name> Форсаж 8  </name>
+			<time> 15.00 </time>
+			<genre> Боевик,триллер  </genre>
+		</movie>
+		<movie>
+			<name> Почему он?  </name>
+			<time> 20.00 </time>
+			<genre> Комедия  </genre>
+		</movie>
+		<movie>
+			<name> Сплит </name>
+			<time> 22.00 </time>
+			<genre> Ужасы  </genre>
+		</movie>
+	</Poster>
+</Cinema>
