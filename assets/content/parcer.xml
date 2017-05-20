@@ -4,36 +4,36 @@
 <Cinema> 
 	<Poster> 
 	
-	<span> Киноафиша c 3.04 по 9.04 </span>
+	<span> TOP-6 любимых фильмов автора</span>
 		<movie>
-			<name class='height' > Босс  малокосос  </name>
-			<time> 10.00 </time>
-			<genre> Мультфильм  </genre>
+			<name class='height' > Васаби(Фран.Яп.) </name>
+			<time> 2001</time>
+			<genre>драма комедия криминал </genre>
 		</movie>
 		<movie>
-			<name class='height'> Великая стена  </name>
-			<time > 12.00 </time>
-			<genre> Фэнтези, Боевик  </genre>
+			<name class='height'> Достучаться до небес(Герм.)  </name>
+			<time > 1997 </time>
+			<genre>драма комедия криминал</genre>
 		</movie>
 		<movie>
-			<name> Форсаж 8  </name>
-			<time> 15.00 </time>
-			<genre> Боевик,триллер  </genre>
+			<name> Бесславные ублюдки(США Герм.)  </name>
+			<time> 2009 </time>
+			<genre> боевик драма комедия военный  </genre>
 		</movie>
 		<movie>
-			<name> Защитники </name>
-			<time> 17.30 </time>
-			<genre> Фантастика  </genre>
+			<name> Амели(Фран.) </name>
+			<time> 2001 </time>
+			<genre> мелодрама комедия </genre>
 		</movie>
 		<movie>
-			<name> Почему он?  </name>
-			<time> 20.00 </time>
-			<genre> Комедия  </genre>
+			<name> Призрак в доспехах(Яп.)  </name>
+			<time> 	1995 </time>
+			<genre> аниме мультфильм фантастика фэнтези боевик триллер  </genre>
 		</movie>
 		<movie>
-			<name> Сплит </name>
-			<time> 22.00 </time>
-			<genre> Ужасы  </genre>
+			<name> Стражи галактики 2(США) </name>
+			<time> 2017 </time>
+			<genre> фантастика боевик приключения  </genre>
 		</movie>
 
 	</Poster>
