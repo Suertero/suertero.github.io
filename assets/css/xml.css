@@ -29,6 +29,10 @@ movie {
     background-color: #02d42f;
     box-shadow: inset -4px -3px 5px 0px rgba(0,0,0,0.75);
 	}
+name,time,genre{display:block;
+				margin:25px auto;
+				text-align:center;
+				}
 name {
     width: 120px;
     color: #b91515;
